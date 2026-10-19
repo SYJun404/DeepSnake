@@ -1,0 +1,7 @@
+# Python 3.8.16; keep the legacy Gym/SB3 API versions aligned.
+numpy>=1.21,<1.25
+torch==2.0.0
+gym==0.21.0
+stable-baselines3==1.8.0
+sb3-contrib==1.8.0
+pygame==2.3.0

@@ -1,0 +1,13 @@
+{
+  "timesteps": 2000000,
+  "num_envs": 8,
+  "board_size": 8,
+  "seed": 20260927,
+  "device": "mps",
+  "eval_every": 50000,
+  "eval_episodes": 20,
+  "n_steps": 512,
+  "save_root": "trained_models_cnn_easy",
+  "gamma": 0.99,
+  "observation_version": 2
+}
